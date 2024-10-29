@@ -18,3 +18,11 @@ Bankist-Website/
 ├── script.js         # JavaScript interactions
 └── style.css         # Styling and layout
 ```
+
+How to run:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JamesDMcG/Bankist-Website.git
+   ```
+2. Open `index.html` in a web browser to view the site locally.
