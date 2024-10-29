@@ -11,9 +11,10 @@ Technologies and Libraries
 - Google Fonts: Uses [Lato](https://fonts.google.com/specimen/Lato) for modern typography.
 
 Project Structure
-
+```
 Bankist-Website/
 ├── img/              # Image assets
 ├── index.html        # Main HTML file
 ├── script.js         # JavaScript interactions
 └── style.css         # Styling and layout
+```
